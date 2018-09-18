@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "BellaDati",
+    "companyWebLink": "http://www.belladati.com",
+    "timeline": "January 2016 - August 2017",
+    "responsibilities": [
+      "Participated in the development of a B2B solution where my responsibilities were business analysis, UI design of a mobile and a web application and development of the web application.",
+      "Implemented a web application for IoT solution with real-time data visualization and integrated it into a PLM software.",
+      "Built a web application showing real-time events on a map, displaying detailed information about these events and allowed users to manage them.",
+      "Created a web application for IoT solution providing sensor management, alerts control, real-time and historical data visualizations.",
+      "Involved in the development of a web application with search functionality displaying reports and data sets with custom visualization.",
+      "Made data visualizations and interactive demo prototypes.",
+      " Updated developer documentation and provided support for frontend developers using the BellaDati Platform."
+    ]
+  },
+  {
+    "id": 0,
+    "title": "QA Engineer",
+    "company": "BellaDati",
+    "companyWebLink": "http://www.belladati.com",
+    "timeline": "April 2015 - August 2017",
+    "responsibilities": [
+      "Performed manual testing of the BellaDati BI web and mobile applications.",
+      "Prepared integration testing environments.",
+      "Incorporated new features into test scenarios and documentation.",
+      "Created product videos in Adobe Premiere."
+    ]
+  }
+]

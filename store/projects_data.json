@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "title": "Personal website",
+    "image": "personal_website.png",
+    "technologies": ["node", "vue", "nuxt"],
+    "mobile": false,
+    "source_url": "https://github.com/ohladik/personal-website",
+    "demo_url": "https://ohladik.com",
+    "description": "This project helped me in improving my UI design for which I used Figma. I tried for the first time Vue.js along with server-side rendering made simple by the Nuxt.js framework."
+  },
+  {
+    "id": 1,
+    "title": "Space travel",
+    "image": "space_travel2.png",
+    "technologies": [
+      "node",
+      "webpack",
+      "docker",
+      "graphql",
+      "apollo",
+      "prisma",
+      "react",
+      "styled-components"
+    ],
+    "mobile": false,
+    "source_url": "https://github.com/ohladik/space-travel",
+    "demo_url": "https://www.space.ohladik.com",
+    "description": "To learn new things in the JavaScript ecosystem, I picked a mobile app design on Dribbble, extended it to a responsive web application in Figma and then created it with React, GraphQL (using Apollo) and styled-components on the frontend. On the backend, I used the GraphQL ORM-like layer Prisma on top of a MySQL database.\n\nThe app allows users to buy a one-way ticket to a Planet in the Solar System in a situation when the environment on Earth is not livable anymore (the tickets can’t be used, yet). Customers can check the air quality in their location to help them to make an informed decision.\n\nI wanted to try out some real-time UI updates so in the ordering process when selecting a seat you can see when another user has selected a seat in the same spaceship as you."
+  },
+  {
+    "id": 2,
+    "title": "Image gallery",
+    "image": "image_gallery.png",
+    "technologies": ["mysql", "php"],
+    "mobile": false,
+    "source_url": "https://github.com/ohladik/image-gallery",
+    "description": "A school project made using PHP and MySQL database allowing users to upload and like images. There is implemented infinite scrolling and the app works even with disabled JavaScript."
+  },
+  {
+    "id": 3,
+    "title": "Movies mobile app",
+    "image": "movies_app.png",
+    "technologies": ["react-native", "firebase"],
+    "mobile": true,
+    "source_url": "https://github.com/ohladik/react-native-movies",
+    "description": "Built with React Native and Firebase for authentication.\n\nThis application was my venture to deepen my experience in the React ecosystem by trying out React Native. I implemented component with a map, made an interactive SVG animation responding to user gestures and checked whether it was possible to create D3.js visualizations using a native SVG library."
+  }
+]
