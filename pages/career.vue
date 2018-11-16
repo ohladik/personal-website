@@ -4,7 +4,7 @@
     <h1 class="header">Career</h1>
     <div class="career-description">
       <p>
-      I am a web developer with the most of my experience being on frontend where I built single page applications, data visualizations and also made UI design in Adobe XD and Figma. The stack included React, ReactNative, Redux, GraphQL, Apollo, D3.js, three.js, styled-components, Jest, Enzyme, and Webpack.
+      I am a web developer with the most of my experience being on frontend where I built single page applications, data visualizations and also made UI design in Adobe XD and Figma. The stack included React, React Native, Redux, GraphQL, Apollo, D3.js, three.js, styled-components, Jest, Enzyme, and Webpack.
       </p>
       <br/>
       <p>

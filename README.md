@@ -2,6 +2,10 @@
 
 > Personal website built using Vue and Nuxt.js
 
+[Live demo](https://ohladik.com)
+
+![](demo.gif)
+
 ## Build Setup
 
 ```bash
